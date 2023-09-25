@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="center">
-      <h1 id="title">코드프렌즈</h1>
+      <h1 id="title">코</h1>
       <table>
         <tr>
           <td>
